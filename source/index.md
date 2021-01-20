@@ -19,5 +19,5 @@
 * git branch -M main
 * git remote add origin https://github.com/amarbois/RTD.git
 * git push -u origin main
-
+* Ajouter les REQUIREMENT (sphynx, sphynx-rtd, recommonmark)
 
